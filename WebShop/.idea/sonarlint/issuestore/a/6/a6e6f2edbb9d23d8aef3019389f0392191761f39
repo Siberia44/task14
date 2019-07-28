@@ -1,0 +1,8 @@
+
+Bsquid:S19891"&Add a "try/catch" block for "forward".(§Õäýùÿÿÿÿ
+Bsquid:S19891"&Add a "try/catch" block for "forward".(§Õäýùÿÿÿÿ
+ysquid:S1450"]Remove the "captchaCreator" field and declare it as a local variable in the relevant methods.(šŒù°úÿÿÿÿ
+T
+squid:S106T"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍþÿÿÿÿ
+tsquid:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(šŒù°úÿÿÿÿ
+Osquid:S3655L"3Call "user.isPresent()" before accessing the value.(¸ßÈŠøÿÿÿÿ
